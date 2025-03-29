@@ -35,3 +35,26 @@ Built with **React + Flask + TailwindCSS + AI**, and enriched with fragrance dat
 cd frontend
 npm install
 npm start
+
+
+
+
+### 🐍 Backend (Flask)
+
+```bash
+cd backend
+pip install -r requirements.txt
+python app.py
+
+
+
+### 📈 Future Improvements
+
+-Integration with Fragrantica / Notino official APIs
+
+-Add user favorites system + "Save later"
+
+-Add freemium plan (remove ads, get advanced recommendations)
+
+-Admin dashboard for analytics
+
