@@ -1,7 +1,5 @@
 
 ---
-
-```markdown
 # 🌸 Parfumology AI
 
 **Parfumology AI** is an AI-powered perfume recommendation web application that helps users find the perfect fragrance based on their preferences, mood, occasion, and budget.  
