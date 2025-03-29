@@ -1,0 +1,8 @@
+flask
+flask-cors
+flask-login
+flask_sqlalchemy
+requests
+beautifulsoup4
+python-dotenv
+werkzeug
